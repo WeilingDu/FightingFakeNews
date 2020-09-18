@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-httpauth
+flask_sqlalchemy 
+pandas
+numpy
+flask_login
+passlib
+gunicorn
+pymysql
+sklearn
+scipy
+yagmail
